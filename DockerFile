@@ -1,0 +1,2 @@
+FROM: ingnx
+COPY . /usr/share/nginx/html
